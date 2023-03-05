@@ -1,0 +1,15 @@
+.active {
+    color: blue;
+}
+
+.hidden {
+    display: none
+}
+
+.my-name {
+    margin-bottom: 20px;
+}
+
+.name__text {
+    font-size: 30px;
+}

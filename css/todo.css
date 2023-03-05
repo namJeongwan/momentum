@@ -1,0 +1,17 @@
+.to-do-list {
+    margin-bottom: 20px;
+}
+  
+.to-do {
+    font-size: 22px;
+    margin-bottom: 10px;
+}
+
+.to-do__del-btn {
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+.to-do__add-input {
+    margin-bottom: 20px;
+}

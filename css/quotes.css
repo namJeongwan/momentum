@@ -1,0 +1,22 @@
+.quotes-box {
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.quotes-box__quote {
+    margin-bottom: 20px;
+    font-size: 34px;
+    width: 908px;
+    white-space:wrap;
+}
+
+.quotes-box__quote {
+    text-align: center;
+}
+
+.quotes-box__author {
+    text-align: left;
+    font-style: italic;
+}
